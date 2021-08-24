@@ -1,4 +1,4 @@
-# Algoritmos desarrollados en PSeInt
+# Algoritmos desarrollados en C++
 
 Instituto Profesional de Educación Comunitaria  
 :house: IPEC Santo Domingo de Heredia  
